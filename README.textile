@@ -2,7 +2,7 @@ h1. Prettyledo - a nicelooking version of Toodledo
 
 h2. What ?
 
-A stripped down and nicelooking version of the GTD service Toodledo":http://toodledo.com based on its API. 
+A stripped down and nicelooking version of the GTD service "Toodledo":http://toodledo.com based on its API. 
 
 h2. Why ?
 
