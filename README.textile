@@ -1,4 +1,4 @@
-h1. Prettyledo - a nicelooking version of Toodledo
+h1. Prettyledo - giving Toodledo the UX-love it deserves
 
 h2. What ?
 
@@ -6,7 +6,7 @@ A stripped down and nicelooking version of the GTD service "Toodledo":http://too
 
 h2. Why ?
 
-Because a lot of people *love* the service when it's used through third party apps, like for instance "Pocket Informant":http://www.pocketinformant.com, but cant use it online due to it's ugly interface. 
+Because a lot of people *love* the service when it's used through third party apps, like for instance "Pocket Informant":http://www.pocketinformant.com, but prefer not to use it online due to its lack of simple interface. 
 (And yes, there are a few "userstyle":http://userstyles.org/styles/browse?search_terms=toodledo&sort=popularity&sort_direction=desc, but even them can't sort out the mess.) My ambition is to make something similar as Pocketinformant but on a web interface.
 
 h2. How?
